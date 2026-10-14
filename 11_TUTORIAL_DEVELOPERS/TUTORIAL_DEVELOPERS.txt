@@ -1,0 +1,25 @@
+ Tutorial — Developers — SIGNAGEOS_SDK
+
+Company: Anticloud FZ LLE
+Model: PAX L5 Narrow L2 General 27B
+Project: SIGNAGEOS_SDK | Category: CONSUMER_ELECTRONICS
+Upstream: https://github.com/signageos/signageos-sdk (MIT)
+
+ Overview
+
+This document covers tutorial — developers for the Anticloud integration of SIGNAGEOS_SDK.
+
+Digital signage SDK for billboards/displays
+
+ Anticloud Integration
+
+PAX L5 Narrow L2 General 27B is integrated into SIGNAGEOS_SDK to provide:
+- Local AI inference with zero cloud dependency
+- AIOSS tamper-evident audit chain
+- AES-256 encryption at rest
+- Single-binary deployment
+
+ Contact
+
+Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+lois@0-1.gg | 0-1.gg

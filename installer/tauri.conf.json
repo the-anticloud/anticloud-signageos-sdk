@@ -1,0 +1,40 @@
+{
+  "build": {
+    "beforeDevCommand": "",
+    "beforeBuildCommand": "",
+    "devPath": "index.html",
+    "distDir": "."
+  },
+  "package": {
+    "productName": "SIGNAGEOS_SDK",
+    "version": "1.0.0"
+  },
+  "tauri": {
+    "allowlist": {
+      "all": false,
+      "shell": {
+        "open": true
+      }
+    },
+    "bundle": {
+      "active": true,
+      "targets": "all",
+      "identifier": "gg.anticloud.signageos_sdk",
+      "category": "DeveloperTool",
+      "shortDescription": "SIGNAGEOS_SDK \u2014 Anticloud Sovereign AI Infrastructure",
+      "longDescription": "Installer for SIGNAGEOS_SDK, part of the Anticloud sovereign AI infrastructure stack"
+    },
+    "security": {
+      "csp": null
+    },
+    "windows": [
+      {
+        "title": "SIGNAGEOS_SDK Installer",
+        "width": 900,
+        "height": 700,
+        "resizable": true,
+        "fullscreen": false
+      }
+    ]
+  }
+}
